@@ -1,5 +1,3 @@
-Əla! Demək istəyirsən yalnız joystick (joy) + servo layihəsi üçün README.md olsun, kod olmadan. Mən sənə hazır nümunə hazırladım:
-
 Joystick Controlled Servo Project
 
 This project demonstrates how to control a servo motor using a joystick module with a microcontroller like Arduino or ESP32.
